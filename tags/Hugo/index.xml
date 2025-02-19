@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on zhang&#39;s documents</title>
+    <link>http://localhost:1313/tags/Hugo/</link>
+    <description>Recent content in Hugo on zhang&#39;s documents</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目1</title>
+      <link>http://localhost:1313/docs/project/prj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/project/prj1/</guid>
+      <description>&lt;h1 id=&#34;项目&#34;&gt;&#xA;  项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;第一个项目&#34;&gt;&#xA;  第一个项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e4%b8%aa%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;总结&#34;&gt;&#xA;  总结&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%80%bb%e7%bb%93&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;第二个项目&#34;&gt;&#xA;  第二个项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e7%ac%ac%e4%ba%8c%e4%b8%aa%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;总结-1&#34;&gt;&#xA;  总结&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%80%bb%e7%bb%93-1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;这里包括了很多我做过的项目，在这里展示&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;去百度看看吧&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&#xA;  &lt;a href=&#34;https://www.baidu.com&#34;&gt;https://www.baidu.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
