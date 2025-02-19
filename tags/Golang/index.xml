@@ -1,70 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Golang on zhang's documents</title><link>https://127.0.0.1:1313/tags/Golang/</link><description>Recent content in Golang on zhang's documents</description><generator>Hugo</generator><language>en</language><atom:link href="https://127.0.0.1:1313/tags/Golang/index.xml" rel="self" type="application/rss+xml"/><item><title>项目1</title><link>https://127.0.0.1:1313/docs/project/prj1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://127.0.0.1:1313/docs/project/prj1/</guid><description>&lt;h1 id="项目">
- 项目
- &lt;a class="anchor" href="#%e9%a1%b9%e7%9b%ae">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="第一个项目">
- 第一个项目
- &lt;a class="anchor" href="#%e7%ac%ac%e4%b8%80%e4%b8%aa%e9%a1%b9%e7%9b%ae">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="总结">
- 总结
- &lt;a class="anchor" href="#%e6%80%bb%e7%bb%93">#&lt;/a>
-&lt;/h3>
-&lt;h2 id="第二个项目">
- 第二个项目
- &lt;a class="anchor" href="#%e7%ac%ac%e4%ba%8c%e4%b8%aa%e9%a1%b9%e7%9b%ae">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="总结-1">
- 总结
- &lt;a class="anchor" href="#%e6%80%bb%e7%bb%93-1">#&lt;/a>
-&lt;/h3>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>姓名&lt;/th>
- &lt;th>年龄&lt;/th>
- &lt;th>城市&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>张三&lt;/td>
- &lt;td>25&lt;/td>
- &lt;td>北京&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>李四&lt;/td>
- &lt;td>30&lt;/td>
- &lt;td>上海&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>王五&lt;/td>
- &lt;td>28&lt;/td>
- &lt;td>广州&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>属性&lt;/th>
- &lt;th>用途&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>put()&lt;/td>
- &lt;td>放进入&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>get()&lt;/td>
- &lt;td>获得&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;p>这里包括了很多我做过的项目，在这里展示&lt;/p>
-&lt;blockquote>
-&lt;p>去百度看看吧&lt;/p>&lt;/blockquote>
-&lt;hr>
-&lt;p>
- &lt;a href="https://www.baidu.com">https://www.baidu.com&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on zhang&#39;s documents</title>
+    <link>http://localhost:1313/tags/Golang/</link>
+    <description>Recent content in Golang on zhang&#39;s documents</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/Golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目1</title>
+      <link>http://localhost:1313/docs/project/prj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/project/prj1/</guid>
+      <description>&lt;h1 id=&#34;项目&#34;&gt;&#xA;  项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;第一个项目&#34;&gt;&#xA;  第一个项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e4%b8%aa%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;总结&#34;&gt;&#xA;  总结&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%80%bb%e7%bb%93&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h2 id=&#34;第二个项目&#34;&gt;&#xA;  第二个项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e7%ac%ac%e4%ba%8c%e4%b8%aa%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;总结-1&#34;&gt;&#xA;  总结&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%80%bb%e7%bb%93-1&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;姓名&lt;/th&gt;&#xA;          &lt;th&gt;年龄&lt;/th&gt;&#xA;          &lt;th&gt;城市&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;张三&lt;/td&gt;&#xA;          &lt;td&gt;25&lt;/td&gt;&#xA;          &lt;td&gt;北京&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;李四&lt;/td&gt;&#xA;          &lt;td&gt;30&lt;/td&gt;&#xA;          &lt;td&gt;上海&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;王五&lt;/td&gt;&#xA;          &lt;td&gt;28&lt;/td&gt;&#xA;          &lt;td&gt;广州&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;属性&lt;/th&gt;&#xA;          &lt;th&gt;用途&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;put()&lt;/td&gt;&#xA;          &lt;td&gt;放进入&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;get()&lt;/td&gt;&#xA;          &lt;td&gt;获得&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;这里包括了很多我做过的项目，在这里展示&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;去百度看看吧&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&#xA;  &lt;a href=&#34;https://www.baidu.com&#34;&gt;https://www.baidu.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
